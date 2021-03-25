@@ -1,6 +1,6 @@
 ###  Gain root access on this machine:  ###
 
-• Start the Kioptrix VM on VirtualBox or VMware
+####  Start the Kioptrix VM on VirtualBox or VMware ####
  ![Kioptrix_Level_1-1](https://user-images.githubusercontent.com/58820314/112413283-9997c200-8d28-11eb-877e-4c53a79bb04e.png)
  
  • Discover the Network to obtain the IP of this machine with : **sudo netdiscover -i eth0** 
